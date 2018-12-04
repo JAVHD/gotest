@@ -2,7 +2,7 @@
 * @Author: bear
 * @Date:   2018-12-04 10:55:56
 * @Last Modified by:   bear
-* @Last Modified time: 2018-12-04 11:02:04
+* @Last Modified time: 2018-12-04 11:14:23
  */
 
 package main
@@ -23,6 +23,6 @@ func main() {
 	fmt.Println(len(test))
 	fmt.Println(test)
 	fmt.Println(test01)
-	//fmt.Printf("v%", test)
+	fmt.Printf("%v", test)
 
 }
